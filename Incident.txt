@@ -1,0 +1,11 @@
+12355	GunShot	48
+12353	HeartAttack	47
+12357	Pneumonia	46
+12351	Asthma	45
+12356	Flu	9
+12350	Vomiting	14
+12354	Rash	15
+12352	BrokenBones	24
+12349	Contusion	26
+12358	BackPain	19
+12359	Toothache	1
